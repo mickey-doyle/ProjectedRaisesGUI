@@ -4,7 +4,7 @@ very simple program that takes inputted salary and increases by 4%.
 
 - there are binary versions of this program for macOS (ARM) and Windows. see [releases](https://github.com/mickey-doyle/ProjectedRaisesGUI/releases)
 
-- depends on .NET 8.0 runtime and GTK+3 (only required if building from source)
+- depends on .NET 8.0 sdk and Gtk# 3 (only required if building from source)
 
 if building on macOS, run the following first:
 ```zsh
